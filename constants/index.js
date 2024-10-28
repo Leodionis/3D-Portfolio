@@ -195,7 +195,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Luar Sekolah",
-    icon: "/assets/company/VMukti.png",
+    icon: "/assets/company/luarsekolah.png",
     iconBg: "#E6DEDD",
     date: "04 Febuary 2024 - 04 June 2024",
     points: [
