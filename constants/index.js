@@ -209,7 +209,7 @@ const experiences = [
   {
     title: "IT Development",
     company_name: "Prasmul - Eli CC ",
-    icon: "/assets/company/TATA-Motors.png",
+    icon: "/assets/company/prasmulelicc.png",
     iconBg: "#E6DEDD",
     date: "17 July 2023 - 16 January 2024",
     points: [
