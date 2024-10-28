@@ -180,7 +180,7 @@ const experiences = [
   {
     title: "React JS Developer",
     company_name: "CodSoft",
-    icon: "/assets/company/TPC.png",
+    icon: "/assets/company/codsoft.png",
     iconBg: "#E6DEDD",
     date: "10 June 2024 - 10 July 2024",
     points: [
