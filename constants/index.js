@@ -195,7 +195,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Luar Sekolah",
-    icon: "/assets/company/luarsekolah.png",
+    icon: "/assets/company/luar-sekolah.png",
     iconBg: "#E6DEDD",
     date: "04 Febuary 2024 - 04 June 2024",
     points: [
@@ -209,7 +209,7 @@ const experiences = [
   {
     title: "IT Development",
     company_name: "Prasmul - Eli CC ",
-    icon: "/assets/company/prasmulelicc.png",
+    icon: "/assets/company/prasmuleli-cc.png",
     iconBg: "#E6DEDD",
     date: "17 July 2023 - 16 January 2024",
     points: [
