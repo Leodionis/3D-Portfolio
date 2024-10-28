@@ -268,7 +268,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "/assets/projects/ChatBot.png",
+    image: "/assets/projects/belajarbekerja.png",
     source_code_link: "https://github.com/Leodionis/Project-Di-PT-Teknologi-Edukasi-Indonesia/tree/main",
     deployed_link: "#",
   },
@@ -312,7 +312,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "/assets/projects/AI-Girlfriend.png",
+    image: "/assets/projects/instagramclone.png",
     source_code_link:
       "https://github.com/Leodionis/Instagram-UI-Clone",
     deployed_link:
