@@ -268,7 +268,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "/assets/projects/belajarbekerja.png",
+    image: "/assets/projects/belajar-bekerja.png",
     source_code_link: "https://github.com/Leodionis/Project-Di-PT-Teknologi-Edukasi-Indonesia/tree/main",
     deployed_link: "#",
   },
@@ -290,7 +290,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "/assets/projects/e-commerce.png",
+    image: "/assets/projects/E-commerce.png",
     source_code_link: "https://github.com/Leodionis/e-commerce",
     deployed_link: "https://e-commerce-one-flame.vercel.app/",
   },
@@ -312,7 +312,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "/assets/projects/instagramclone.png",
+    image: "/assets/projects/instagram-clone.png",
     source_code_link:
       "https://github.com/Leodionis/Instagram-UI-Clone",
     deployed_link:
