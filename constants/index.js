@@ -291,7 +291,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "/assets/projects/amazon.PNG",
+    image: "/assets/projects/amazon.png",
     source_code_link: "https://github.com/Leodionis/e-commerce",
     deployed_link: "https://e-commerce-one-flame.vercel.app/",
   },
@@ -313,7 +313,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "/assets/projects/AI-Girlfriend.PNG",
+    image: "/assets/projects/AI-Girlfriend.png",
     source_code_link:
       "https://github.com/Leodionis/Instagram-UI-Clone",
     deployed_link:
