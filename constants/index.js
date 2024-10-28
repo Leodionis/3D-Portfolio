@@ -1,6 +1,5 @@
 import GithubIcon from "./../public/assets/icons/github.svg";
 import LinkedInIcon from "./../public/assets/icons/linkedin.svg";
-import XIcon from "./../public/assets/icons/x.svg";
 import InstagramIcon from "./../public/assets/icons/instagram.svg";
 import FrontendIcon from "./../public/assets/icons/frontend.svg";
 import LeaderShipIcon from "./../public/assets/icons/leadership.svg";
@@ -291,7 +290,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "/assets/projects/amazon.png",
+    image: "/assets/projects/e-commerce.png",
     source_code_link: "https://github.com/Leodionis/e-commerce",
     deployed_link: "https://e-commerce-one-flame.vercel.app/",
   },
@@ -335,7 +334,7 @@ const socials = [
   {
     id: "instagram",
     icon: <InstagramIcon />,
-    link: "https://www.instagram.com/leodionissss/",
+    link: "https://www.instagram.com/leodioniss/",
   },
 ];
 
