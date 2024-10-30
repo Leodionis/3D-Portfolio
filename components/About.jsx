@@ -27,7 +27,7 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-        Hello! I'm Leodionis, a software engineering professional with a strong academic background. I'm currently pursuing a Bachelor of Software Engineering from Universitas Esa Unggul.
+        Hello! I'm Leodionis, a software Developer professional with a strong academic background. I'm currently pursuing a Bachelor of Software Developer from Universitas Esa Unggul.
 
 As a software developer, I have experience in TypeScript, TailwindCSS, and JavaScript. I specialize in frameworks such as React, Node.js, Next.js, and Three.js. 
 
